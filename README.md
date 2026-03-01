@@ -1,4 +1,4 @@
-Pokémon Cards – React (Components & Props)
+Pokemon Cards – React (Components & Props)
 This is a simple React project created to practice the basic concepts of React Components and Props.
 The application displays several Pokémon cards. Each card shows the Pokémon image, name, and type. 
 A reusable Card component is used to display the card layout, and the data for each Pokémon is passed 
